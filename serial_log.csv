@@ -1,0 +1,606 @@
+2025-02-06 15:43:29,/dev/port1,WI
+2025-02-06 15:43:29,/dev/port2,RKING
+2025-02-06 15:43:30,/dev/port2,WO
+2025-02-06 15:43:30,/dev/port3,WORKIG
+2025-02-06 15:43:30,/dev/port4,WOI
+2025-02-06 15:43:30,/dev/port5,WORKI
+2025-02-06 15:43:30,/dev/port6,WON
+2025-02-06 15:43:30,/dev/port7,WRKIN
+2025-02-06 15:43:30,/dev/port8,K
+2025-02-06 15:43:31,/dev/port8,WORING
+2025-02-06 15:43:31,/dev/feeder_port,EDER RK
+2025-02-06 15:45:26,/dev/port5,"NGQR DATA Available"
+2025-02-06 15:45:26,/dev/port5,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:45:27,/dev/port5,QR DATA Available
+2025-02-06 15:45:27,/dev/port5,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:45:29,/dev/port5,QR DATA Available
+2025-02-06 15:45:29,/dev/port5,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:45:31,/dev/port5,QR DATA Available
+2025-02-06 15:45:31,/dev/port5,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:45:32,/dev/port5,QR DATA Available
+2025-02-06 15:45:32,/dev/port5,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:45:34,/dev/port5,QR DATA Available
+2025-02-06 15:45:34,/dev/port5,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:45:36,/dev/port5,QR DATA Available
+2025-02-06 15:45:36,/dev/port5,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:45:37,/dev/port5,QR DATA Available
+2025-02-06 15:45:37,/dev/port5,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:45:39,/dev/port5,QR DATA Available
+2025-02-06 15:45:39,/dev/port5,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:45:40,/dev/port5,QR DATA Available
+2025-02-06 15:45:40,/dev/port5,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:45:42,/dev/port5,QR DATA Available
+2025-02-06 15:45:42,/dev/port5,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:45:43,/dev/port5,QR DATA Available
+2025-02-06 15:45:43,/dev/port5,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:46:42,/dev/port1,"ORKNGVED:::https://mdf-frontend.onrender.com/healthy-participant/N1234124627"
+2025-02-06 15:46:54,/dev/port7,"OGQR DATA Available"
+2025-02-06 15:46:54,/dev/port7,QR_DATA_RECEIVED:::https://mdf-frontend.onrender.com/healthy-participant/N1234124595
+2025-02-06 15:47:40,/dev/port8,QR DATA Available
+2025-02-06 15:47:40,/dev/port8,QR_DATA_RECEIVED:::https://mdf-frontend.onrender.com/healthy-participant/N1234124620
+2025-02-06 15:48:24,/dev/port5,QR DATA Available
+2025-02-06 15:48:24,/dev/port5,QR_DATA_RECEIVED:::https://mdf-frontend.onrender.com/healthy-participant/N1234124581
+2025-02-06 15:52:53,/dev/port5,IR_SENSOR::: Sniff_started
+2025-02-06 15:52:53,/dev/port5,IR_SENSOR::: Sniff_started
+2025-02-06 15:52:54,/dev/port5,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:53:02,/dev/port5,IR_SENSOR::: Sniff_started
+2025-02-06 15:53:03,/dev/port5,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:53:03,/dev/port5,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:53:12,/dev/port3,NIR_SENSOR::: Sniff_started
+2025-02-06 15:53:13,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:53:18,/dev/feeder_port,Activating Feeder (Attempt 1/2)
+2025-02-06 15:53:38,/dev/port5,IR_SENSOR::: Sniff_started
+2025-02-06 15:53:38,/dev/port5,IR_SENSOR::: Sniff_started
+2025-02-06 15:53:38,/dev/port5,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:53:42,/dev/feeder_port,Activating Feeder (Attempt 1/2)
+2025-02-06 15:54:00,/dev/port5,IR_SENSOR::: Sniff_started
+2025-02-06 15:54:01,/dev/port5,IR_SENSOR::: Sniff_started
+2025-02-06 15:54:01,/dev/port5,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:54:01,/dev/port5,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:54:01,/dev/port5,IR_SENSOR::: Sniff_started
+2025-02-06 15:54:01,/dev/port5,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:54:08,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 15:54:08,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:54:13,/dev/port2,IR_SENSOR::: Sniff_started
+2025-02-06 15:54:14,/dev/port2,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:54:16,/dev/port1,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:54:22,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 15:54:23,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:54:24,/dev/port4,"RKNGIR_SENSOR::: Sniff_started"
+2025-02-06 15:54:24,/dev/port4,IR_SENSOR::: Sniff_started
+2025-02-06 15:54:24,/dev/port4,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:54:24,/dev/port4,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:54:24,/dev/port4,IR_SENSOR::: Sniff_started
+2025-02-06 15:54:24,/dev/port4,IR_SENSOR::: Sniff_started
+2025-02-06 15:54:24,/dev/port4,IR_SENSOR::: Sniff_started
+2025-02-06 15:54:24,/dev/port4,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:54:24,/dev/port4,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:54:24,/dev/port4,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:54:24,/dev/port4,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:54:24,/dev/port4,IR_SENSOR::: Sniff_started
+2025-02-06 15:54:24,/dev/port4,IR_SENSOR::: Sniff_started
+2025-02-06 15:54:24,/dev/port4,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:54:25,/dev/port5,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:54:25,/dev/port5,IR_SENSOR::: Sniff_started
+2025-02-06 15:54:26,/dev/port5,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:54:29,/dev/port7,IR_SENSOR::: Sniff_started
+2025-02-06 15:54:29,/dev/port7,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:54:36,/dev/port1,IR_SENSOR::: Sniff_started
+2025-02-06 15:54:37,/dev/port1,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:54:40,/dev/port2,IR_SENSOR::: Sniff_started
+2025-02-06 15:54:40,/dev/port2,IR_SENSOR::: Sniff_started
+2025-02-06 15:54:41,/dev/port2,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:54:42,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 15:54:43,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:54:44,/dev/port4,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:54:44,/dev/port4,IR_SENSOR::: Sniff_started
+2025-02-06 15:54:44,/dev/port4,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:54:46,/dev/port5,IR_SENSOR::: Sniff_started
+2025-02-06 15:54:46,/dev/port5,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:54:49,/dev/port7,IR_SENSOR::: Sniff_started
+2025-02-06 15:54:49,/dev/port7,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:54:58,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 15:54:59,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:55:26,/dev/port5,IR_SENSOR::: Sniff_started
+2025-02-06 15:55:26,/dev/port5,IR_SENSOR::: Sniff_started
+2025-02-06 15:55:27,/dev/port5,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:55:29,/dev/port7,IR_SENSOR::: Sniff_started
+2025-02-06 15:55:30,/dev/port7,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:55:35,/dev/port2,IR_SENSOR::: Sniff_started
+2025-02-06 15:55:36,/dev/port2,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:55:36,/dev/port2,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:55:38,/dev/port1,IR_SENSOR::: Sniff_started
+2025-02-06 15:55:38,/dev/port1,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:55:42,/dev/port5,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:55:42,/dev/port5,IR_SENSOR::: Sniff_started
+2025-02-06 15:55:43,/dev/port5,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:55:46,/dev/port7,IR_SENSOR::: Sniff_started
+2025-02-06 15:55:46,/dev/port7,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:55:54,/dev/port4,IR_SENSOR::: Sniff_started
+2025-02-06 15:55:54,/dev/port4,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:55:57,/dev/port8,IR_SENSOR::: Sniff_started
+2025-02-06 15:55:58,/dev/port8,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:56:05,/dev/port4,IR_SENSOR::: Sniff_started
+2025-02-06 15:56:05,/dev/port4,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:56:05,/dev/port4,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:56:10,/dev/port1,IR_SENSOR::: Sniff_started
+2025-02-06 15:56:11,/dev/port1,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:56:26,/dev/port4,IR_SENSOR::: Sniff_started
+2025-02-06 15:56:27,/dev/port4,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:56:28,/dev/port5,IR_SENSOR::: Sniff_started
+2025-02-06 15:56:28,/dev/port5,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:56:36,/dev/feeder_port,Activating Feeder (Attempt 1/2)
+2025-02-06 15:56:53,/dev/port4,IR_SENSOR::: Sniff_started
+2025-02-06 15:56:53,/dev/port4,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:56:55,/dev/port5,IR_SENSOR::: Sniff_started
+2025-02-06 15:56:55,/dev/port5,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:56:58,/dev/port7,IR_SENSOR::: Sniff_started
+2025-02-06 15:56:58,/dev/port7,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:57:00,/dev/port8,IR_SENSOR::: Sniff_started
+2025-02-06 15:57:00,/dev/port8,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:57:05,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 15:57:05,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:57:09,/dev/port2,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:57:09,/dev/port2,IR_SENSOR::: Sniff_started
+2025-02-06 15:57:10,/dev/port2,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:57:11,/dev/port1,IR_SENSOR::: Sniff_started
+2025-02-06 15:57:12,/dev/port1,IR_SENSOR::: Sniff_stopped
+2025-02-06 15:57:19,/dev/feeder_port,Feeder operation complete. Servo detached.
+2025-02-06 15:59:14,/dev/port1,VED:::1002690602
+2025-02-06 15:59:16,/dev/port1,QR DATA Available
+2025-02-06 15:59:16,/dev/port1,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:59:17,/dev/port1,QR DATA Available
+2025-02-06 15:59:17,/dev/port1,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:59:18,/dev/port1,QR DATA Available
+2025-02-06 15:59:18,/dev/port1,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:59:19,/dev/port1,VED:::1002690602
+2025-02-06 15:59:20,/dev/port1,QR DATA Available
+2025-02-06 15:59:20,/dev/port1,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:59:21,/dev/port1,QR DATA Available
+2025-02-06 15:59:21,/dev/port1,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:59:22,/dev/port1,QR DATA Available
+2025-02-06 15:59:22,/dev/port1,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:59:23,/dev/port1,QR DATA Available
+2025-02-06 15:59:23,/dev/port1,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:59:24,/dev/port1,QR DATA Available
+2025-02-06 15:59:24,/dev/port1,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:59:25,/dev/port1,QR DATA Available
+2025-02-06 15:59:25,/dev/port1,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:59:27,/dev/port1,QR DATA Available
+2025-02-06 15:59:27,/dev/port1,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:59:28,/dev/port1,QR DATA Available
+2025-02-06 15:59:28,/dev/port1,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:59:29,/dev/port1,QR DATA Available
+2025-02-06 15:59:29,/dev/port1,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:59:30,/dev/port1,QR DATA Available
+2025-02-06 15:59:30,/dev/port1,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:59:31,/dev/port1,QR DATA Available
+2025-02-06 15:59:31,/dev/port1,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:59:32,/dev/port1,QR DATA Available
+2025-02-06 15:59:32,/dev/port1,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:59:33,/dev/port1,QR DATA Available
+2025-02-06 15:59:33,/dev/port1,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:59:34,/dev/port1,QR DATA Available
+2025-02-06 15:59:34,/dev/port1,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:59:35,/dev/port1,QR DATA Available
+2025-02-06 15:59:35,/dev/port1,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:59:36,/dev/port1,QR DATA Available
+2025-02-06 15:59:36,/dev/port1,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:59:38,/dev/port1,QR DATA Available
+2025-02-06 15:59:38,/dev/port1,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:59:39,/dev/port1,QR DATA Available
+2025-02-06 15:59:39,/dev/port1,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:59:40,/dev/port1,QR DATA Available
+2025-02-06 15:59:40,/dev/port1,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:59:41,/dev/port1,QR DATA Available
+2025-02-06 15:59:41,/dev/port1,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:59:42,/dev/port1,QR DATA Available
+2025-02-06 15:59:42,/dev/port1,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:59:43,/dev/port1,QR DATA Available
+2025-02-06 15:59:43,/dev/port1,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:59:44,/dev/port1,QR DATA Available
+2025-02-06 15:59:44,/dev/port1,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:59:45,/dev/port1,QR DATA Available
+2025-02-06 15:59:45,/dev/port1,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:59:48,/dev/port1,QR DATA Available
+2025-02-06 15:59:48,/dev/port1,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:59:49,/dev/port1,QR DATA Available
+2025-02-06 15:59:49,/dev/port1,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:59:52,/dev/port1,QR DATA Available
+2025-02-06 15:59:52,/dev/port1,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:59:53,/dev/port1,QR DATA Available
+2025-02-06 15:59:53,/dev/port1,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:59:54,/dev/port1,QR DATA Available
+2025-02-06 15:59:54,/dev/port1,QR_DATA_RECEIVED:::1002690602
+2025-02-06 15:59:59,/dev/port1,QR DATA Available
+2025-02-06 15:59:59,/dev/port1,QR_DATA_RECEIVED:::1002690602
+2025-02-06 16:00:59,/dev/port2,IR_SENSOR::: Sniff_started
+2025-02-06 16:00:59,/dev/port2,IR_SENSOR::: Sniff_started
+2025-02-06 16:00:59,/dev/port2,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:01:02,/dev/port2,IR_SENSOR::: Sniff_started
+2025-02-06 16:01:04,/dev/port2,IR_SENSOR::: Sniff_started
+2025-02-06 16:01:04,/dev/port2,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:01:05,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:01:05,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:01:06,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:01:13,/dev/port1,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:01:17,/dev/port1,IR_SENSOR::: Sniff_started
+2025-02-06 16:01:17,/dev/port1,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:01:19,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:01:19,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:01:21,/dev/port4,IR_SENSOR::: Sniff_started
+2025-02-06 16:01:21,/dev/port4,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:01:22,/dev/port5,IR_SENSOR::: Sniff_started
+2025-02-06 16:01:22,/dev/port5,IR_SENSOR::: Sniff_started
+2025-02-06 16:01:23,/dev/port5,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:01:33,/dev/feeder_port,Activating Feeder (Attempt 1/2)
+2025-02-06 16:01:48,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:01:49,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:01:51,/dev/feeder_port,Feeder operation complete. Servo detached.
+2025-02-06 16:01:55,/dev/port2,IR_SENSOR::: Sniff_started
+2025-02-06 16:01:55,/dev/feeder_port,
+2025-02-06 16:01:56,/dev/port2,IR_SENSOR::: Sniff_started
+2025-02-06 16:01:56,/dev/port2,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:01:57,/dev/port1,IR_SENSOR::: Sniff_started
+2025-02-06 16:01:57,/dev/port1,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:02:13,/dev/port2,QR DATA Available
+2025-02-06 16:02:13,/dev/port2,QR_DATA_RECEIVED:::1002690602
+2025-02-06 16:02:14,/dev/port5,IR_SENSOR::: Sniff_started
+2025-02-06 16:02:14,/dev/port2,QR DATA Available
+2025-02-06 16:02:14,/dev/port2,QR_DATA_RECEIVED:::1002690602
+2025-02-06 16:02:14,/dev/port5,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:02:15,/dev/port2,QR DATA Available
+2025-02-06 16:02:15,/dev/port2,QR_DATA_RECEIVED:::1002690602
+2025-02-06 16:02:16,/dev/port2,QR DATA Available
+2025-02-06 16:02:16,/dev/port2,QR_DATA_RECEIVED:::1002690602
+2025-02-06 16:02:17,/dev/port2,QR DATA Available
+2025-02-06 16:02:17,/dev/port2,QR_DATA_RECEIVED:::1002690602
+2025-02-06 16:02:18,/dev/port7,IR_SENSOR::: Sniff_started
+2025-02-06 16:02:18,/dev/port2,QR DATA Available
+2025-02-06 16:02:18,/dev/port2,QR_DATA_RECEIVED:::1002690602
+2025-02-06 16:02:19,/dev/port7,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:02:19,/dev/port2,QR DATA Available
+2025-02-06 16:02:19,/dev/port2,QR_DATA_RECEIVED:::1002690602
+2025-02-06 16:02:20,/dev/port8,IR_SENSOR::: Sniff_started
+2025-02-06 16:02:20,/dev/port8,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:02:20,/dev/port2,QR DATA Available
+2025-02-06 16:02:20,/dev/port2,QR_DATA_RECEIVED:::1002690602
+2025-02-06 16:02:21,/dev/port2,QR DATA Available
+2025-02-06 16:02:21,/dev/port2,QR_DATA_RECEIVED:::1002690602
+2025-02-06 16:02:23,/dev/port2,QR DATA Available
+2025-02-06 16:02:23,/dev/port2,QR_DATA_RECEIVED:::1002690602
+2025-02-06 16:02:23,/dev/feeder_port,Feeder operation successful.
+2025-02-06 16:02:24,/dev/port2,QR DATA Available
+2025-02-06 16:02:24,/dev/port2,QR_DATA_RECEIVED:::1002690602
+2025-02-06 16:02:25,/dev/port2,QR DATA Available
+2025-02-06 16:02:25,/dev/port2,QR_DATA_RECEIVED:::1002690602
+2025-02-06 16:02:26,/dev/port2,QR DATA Available
+2025-02-06 16:02:26,/dev/port2,QR_DATA_RECEIVED:::1002690602
+2025-02-06 16:02:27,/dev/port2,QR DATA Available
+2025-02-06 16:02:27,/dev/port2,QR_DATA_RECEIVED:::1002690602
+2025-02-06 16:02:28,/dev/port2,QR DATA Available
+2025-02-06 16:02:28,/dev/port2,QR_DATA_RECEIVED:::1002690602
+2025-02-06 16:02:29,/dev/port2,QR DATA Available
+2025-02-06 16:02:29,/dev/port2,QR_DATA_RECEIVED:::1002690602
+2025-02-06 16:02:30,/dev/port2,QR DATA Available
+2025-02-06 16:02:30,/dev/port2,QR_DATA_RECEIVED:::1002690602
+2025-02-06 16:02:31,/dev/port2,QR DATA Available
+2025-02-06 16:02:31,/dev/port2,QR_DATA_RECEIVED:::1002690602
+2025-02-06 16:02:32,/dev/port2,QR DATA Available
+2025-02-06 16:02:33,/dev/port2,QR_DATA_RECEIVED:::1002690602
+2025-02-06 16:02:34,/dev/port2,QR DATA Available
+2025-02-06 16:02:34,/dev/port2,QR_DATA_RECEIVED:::1002690602
+2025-02-06 16:02:35,/dev/port2,QR DATA Available
+2025-02-06 16:02:35,/dev/port2,QR_DATA_RECEIVED:::1002690602
+2025-02-06 16:02:36,/dev/port2,QR DATA Available
+2025-02-06 16:02:36,/dev/port2,QR_DATA_RECEIVED:::1002690602
+2025-02-06 16:02:38,/dev/port4,IR_SENSOR::: Sniff_started
+2025-02-06 16:02:38,/dev/port4,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:02:40,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:02:40,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:02:41,/dev/port2,IR_SENSOR::: Sniff_started
+2025-02-06 16:02:42,/dev/port2,IR_SENSOR::: Sniff_started
+2025-02-06 16:02:42,/dev/port2,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:02:43,/dev/port1,IR_SENSOR::: Sniff_started
+2025-02-06 16:02:44,/dev/port1,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:02:47,/dev/feeder_port,Feeder operation complete. Servo detached.
+2025-02-06 16:03:05,/dev/port5,IR_SENSOR::: Sniff_started
+2025-02-06 16:03:05,/dev/port5,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:03:05,/dev/port5,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:03:11,/dev/port3,Cm: atat_ge
+2025-02-06 16:03:16,/dev/port4,m _te
+2025-02-06 16:03:17,/dev/port3,Barrier opened.
+2025-02-06 16:03:20,/dev/port5,m acata
+2025-02-06 16:03:21,/dev/port5,Com :tive_gte
+2025-02-06 16:03:21,/dev/port6,:: Sniff_stopped
+2025-02-06 16:03:22,/dev/port6,
+2025-02-06 16:03:22,/dev/port7,omm : actvate_te
+2025-02-06 16:03:22,/dev/port4,Barrier opened.
+2025-02-06 16:03:22,/dev/port8,m ativate_te
+2025-02-06 16:03:24,/dev/port6,
+2025-02-06 16:03:25,/dev/port6,
+2025-02-06 16:03:25,/dev/port2,mctatate
+2025-02-06 16:03:25,/dev/port5,Barrier opened.
+2025-02-06 16:03:27,/dev/port1,Co : acvate_te
+2025-02-06 16:03:27,/dev/port7,Barrier opened.
+2025-02-06 16:03:28,/dev/port8,Barrier opened.
+2025-02-06 16:03:44,/dev/port2,Com : aive_gBarrier opened.
+2025-02-06 16:03:54,/dev/port6,Comm : deactivate_gate
+2025-02-06 16:08:44,/dev/port1,Comm : activate_gate
+2025-02-06 16:08:44,/dev/port2,Cmaae
+2025-02-06 16:08:44,/dev/port2,om : ctivte_gatBarrier opened.
+2025-02-06 16:08:44,/dev/port3,m actiatege
+2025-02-06 16:08:44,/dev/port3,Com :v_atBarrier opened.
+2025-02-06 16:08:44,/dev/port4,C:cive_gate
+2025-02-06 16:08:44,/dev/port4,omm  atatBarrier opened.
+2025-02-06 16:08:44,/dev/port5,: aivate_gate
+2025-02-06 16:08:44,/dev/port5,CommctBarrier opened.
+2025-02-06 16:08:44,/dev/port6,Comm : activate_gate
+2025-02-06 16:08:44,/dev/port7,matv_ae
+2025-02-06 16:08:44,/dev/port7,"Com : ciategtBarrier opened."
+2025-02-06 16:08:44,/dev/port8,Cmm  aivaegae
+2025-02-06 16:08:44,/dev/port8,"o:ctt_tBarrier opened."
+2025-02-06 16:08:48,/dev/port1,Comm : deactivate_gate
+2025-02-06 16:08:48,/dev/port2,deacva_ge
+2025-02-06 16:08:49,/dev/port2,Comm : titeat
+2025-02-06 16:08:50,/dev/port2,
+2025-02-06 16:08:50,/dev/port3,m : deactve_g
+2025-02-06 16:08:51,/dev/port3,Comiatate
+2025-02-06 16:08:52,/dev/port3,
+2025-02-06 16:08:53,/dev/port3,
+2025-02-06 16:08:54,/dev/port2,Barrier closed.
+2025-02-06 16:08:54,/dev/port3,
+2025-02-06 16:08:54,/dev/port4,Cm: acae_gate
+2025-02-06 16:08:55,/dev/port4,
+2025-02-06 16:08:55,/dev/port2,Comm : activate_gate
+2025-02-06 16:08:55,/dev/port5,Cecvtee
+2025-02-06 16:08:56,/dev/port3,Barrier closed.
+2025-02-06 16:08:56,/dev/port5,omm : datia_gat
+2025-02-06 16:08:56,/dev/port6,Comm : deactivate_gate
+2025-02-06 16:08:56,/dev/port7,deactivate_gate
+2025-02-06 16:08:56,/dev/port3,Comm : activate_gate
+2025-02-06 16:08:56,/dev/port8,:activate
+2025-02-06 16:08:57,/dev/port8,Comm  dete_ga
+2025-02-06 16:08:58,/dev/port8,
+2025-02-06 16:08:59,/dev/port8,
+2025-02-06 16:09:00,/dev/port2,Barrier opened.
+2025-02-06 16:09:00,/dev/port4,om detivtBarrier closed.
+2025-02-06 16:09:00,/dev/port8,
+2025-02-06 16:09:01,/dev/port5,Barrier closed.
+2025-02-06 16:09:01,/dev/port8,
+2025-02-06 16:09:01,/dev/port4,Comm : activate_gate
+2025-02-06 16:09:01,/dev/port3,ariopened.
+2025-02-06 16:09:02,/dev/port3,Brer Cm: a
+2025-02-06 16:09:02,/dev/port8,Barrier closed.
+2025-02-06 16:09:02,/dev/port7,Comm:Barrier closed.
+2025-02-06 16:09:03,/dev/port3,om dectivate_gate
+2025-02-06 16:09:04,/dev/port3,
+2025-02-06 16:09:05,/dev/port3,
+2025-02-06 16:09:06,/dev/port3,
+2025-02-06 16:09:07,/dev/port3,
+2025-02-06 16:09:07,/dev/port4,Barrier opened.
+2025-02-06 16:09:07,/dev/port8,Comm : activate_gate
+2025-02-06 16:09:07,/dev/port4,Comm : deactivate_gate
+2025-02-06 16:09:07,/dev/port3,Barrier closed.
+2025-02-06 16:09:08,/dev/port4,
+2025-02-06 16:09:08,/dev/port5,Co  tte_at
+2025-02-06 16:09:08,/dev/port6,ff_started
+2025-02-06 16:09:09,/dev/port3,
+2025-02-06 16:09:09,/dev/port8,Barrier opened.
+2025-02-06 16:09:09,/dev/port2,Caiegat
+2025-02-06 16:09:09,/dev/port8,Comm : deactivate_gate
+2025-02-06 16:09:12,/dev/port4,Barrier closed.
+2025-02-06 16:09:12,/dev/port4,Comm : activate_gate
+2025-02-06 16:09:13,/dev/port3,Barrier opened.
+2025-02-06 16:09:13,/dev/port3,Comm : deactivate_gate
+2025-02-06 16:09:13,/dev/port8,Barrier closed.
+2025-02-06 16:09:13,/dev/port8,Comm : activate_gate
+2025-02-06 16:09:18,/dev/port4,Barrier opened.
+2025-02-06 16:09:19,/dev/port3,Barrier closed.
+2025-02-06 16:09:19,/dev/port3,Comm : activate_gate
+2025-02-06 16:09:19,/dev/port8,Barrier opened.
+2025-02-06 16:09:19,/dev/port8,Comm : deactivate_gate
+2025-02-06 16:09:24,/dev/port3,Barrier opened.
+2025-02-06 16:09:24,/dev/port3,Comm : deactivate_gate
+2025-02-06 16:09:24,/dev/port8,Barrier closed.
+2025-02-06 16:09:29,/dev/port7,omm : ateate
+2025-02-06 16:09:30,/dev/port3,Barrier closed.
+2025-02-06 16:09:30,/dev/port3,Comm : activate_gate
+2025-02-06 16:09:30,/dev/port8,octit
+2025-02-06 16:09:32,/dev/port7,
+2025-02-06 16:09:36,/dev/port8,er opened.
+2025-02-06 16:09:38,/dev/port6,Comm : deactivate_gate
+2025-02-06 16:09:38,/dev/port3,Barrier opened.
+2025-02-06 16:09:38,/dev/port3,Comm : deactivate_gate
+2025-02-06 16:09:38,/dev/port5,Comm : deactivate_gate
+2025-02-06 16:09:39,/dev/port4,Com  dacivae_ae
+2025-02-06 16:09:44,/dev/port3,Barrier closed.
+2025-02-06 16:09:44,/dev/port3,Comm : activate_gate
+2025-02-06 16:09:45,/dev/port4,Barrier closed.
+2025-02-06 16:09:49,/dev/port3,Barrier opened.
+2025-02-06 16:09:49,/dev/port3,Comm : deactivate_gate
+2025-02-06 16:09:55,/dev/port3,Barrier closed.
+2025-02-06 16:10:19,/dev/feeder_port,Feeder operation complete. Servo detached.
+2025-02-06 16:10:55,/dev/port4,IR_SENSOR::: Sniff_started
+2025-02-06 16:10:55,/dev/port4,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:10:56,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:10:57,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:11:25,/dev/port4,IR_SENSOR::: Sniff_started
+2025-02-06 16:11:25,/dev/port4,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:11:26,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:11:26,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:11:27,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:14:28,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:14:29,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:14:38,/dev/feeder_port,Feeder operation complete. Servo detached.
+2025-02-06 16:14:56,/dev/port4,IR_SENSOR::: Sniff_started
+2025-02-06 16:14:56,/dev/port4,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:15:03,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:15:03,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:15:03,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:15:03,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:15:15,/dev/port4,IR_SENSOR::: Sniff_started
+2025-02-06 16:15:15,/dev/port4,IR_SENSOR::: Sniff_started
+2025-02-06 16:15:16,/dev/port4,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:15:17,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:15:17,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:16:02,/dev/port4,IR_SENSOR::: Sniff_started
+2025-02-06 16:16:02,/dev/port4,IR_SENSOR::: Sniff_started
+2025-02-06 16:16:02,/dev/port4,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:16:03,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:16:03,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:16:47,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:16:47,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:16:48,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:16:49,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:16:52,/dev/feeder_port,Feeder operation complete. Servo detached.
+2025-02-06 16:17:15,/dev/port1,Comm : activate_gate
+2025-02-06 16:17:15,/dev/port2,Sniff_started
+2025-02-06 16:17:15,/dev/port3,Cmm : ctivtegt
+2025-02-06 16:17:15,/dev/port4,Cmm : ciae_a
+2025-02-06 16:17:15,/dev/port5,ff_stopped
+2025-02-06 16:17:15,/dev/port6,IR_SENSOR::: Sniff_started
+2025-02-06 16:17:15,/dev/port7,SENSOR::: Sniff_stopped
+2025-02-06 16:17:16,/dev/port8,ff_stopped
+2025-02-06 16:17:21,/dev/port3,Barrier opened.
+2025-02-06 16:17:21,/dev/port4,Barrier opened.
+2025-02-06 16:17:47,/dev/port1,Comm : deactivate_gate
+2025-02-06 16:17:58,/dev/port1,Comm : activate_gate
+2025-02-06 16:18:02,/dev/port6,Comm : deactivate_gate
+2025-02-06 16:18:05,/dev/port7,Comm : deactivate_gate
+2025-02-06 16:18:06,/dev/port4,eat
+2025-02-06 16:18:07,/dev/port3,m datt_ae
+2025-02-06 16:18:08,/dev/port3,Com: ecivaegt
+2025-02-06 16:18:08,/dev/port2,Comm : deactivate_gate
+2025-02-06 16:18:09,/dev/port5,Comm : deactivate_gate
+2025-02-06 16:18:11,/dev/port8,Comm : deactivate_gate
+2025-02-06 16:18:13,/dev/port3,Barrier closed.
+2025-02-06 16:18:20,/dev/port5,Comm : activate_gate
+2025-02-06 16:18:21,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:18:21,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:18:22,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:18:22,/dev/port2,Comm : activate_gate
+2025-02-06 16:18:25,/dev/port1,Comm : deactivate_gate
+2025-02-06 16:18:31,/dev/port5,Comm : deactivate_gate
+2025-02-06 16:18:32,/dev/port6,Comm : activate_gate
+2025-02-06 16:18:33,/dev/port7,IR_SENSOR::: Sniff_started
+2025-02-06 16:18:44,/dev/port8,IR_SENSOR::: Sniff_started
+2025-02-06 16:18:53,/dev/port1,Comm : activate_gate
+2025-02-06 16:18:53,/dev/port2,Comm : activate_gate
+2025-02-06 16:18:53,/dev/port3,om:atvt_ae
+2025-02-06 16:18:54,/dev/port3,Cm  ciaegt
+2025-02-06 16:18:54,/dev/port4,IR_SENSOR::: Sniff_started
+2025-02-06 16:18:55,/dev/port5,Comm : activate_gate
+2025-02-06 16:18:55,/dev/port6,Comm : activate_gate
+2025-02-06 16:18:55,/dev/port7,Comm : activate_gate
+2025-02-06 16:18:55,/dev/port8,Comm : activate_gate
+2025-02-06 16:18:59,/dev/port3,Barrier opened.
+2025-02-06 16:19:05,/dev/port1,Comm : activate_gate
+2025-02-06 16:19:05,/dev/port2,Comm : activate_gate
+2025-02-06 16:19:05,/dev/port3,om : activate_gate
+2025-02-06 16:19:05,/dev/port3,CmBarrier opened.
+2025-02-06 16:19:05,/dev/port4,Comm : activate_gate
+2025-02-06 16:19:05,/dev/port5,Comm : activate_gate
+2025-02-06 16:19:05,/dev/port6,Comm : activate_gate
+2025-02-06 16:19:05,/dev/port7,Comm : activate_gate
+2025-02-06 16:19:06,/dev/port8,Comm : activate_gate
+2025-02-06 16:19:07,/dev/port1,Comm : activate_gate
+2025-02-06 16:19:07,/dev/port2,Comm : activate_gate
+2025-02-06 16:19:07,/dev/port3,Comm : activate_gte
+2025-02-06 16:19:07,/dev/port3,aBarrier opened.
+2025-02-06 16:19:07,/dev/port4,Comm : activate_gate
+2025-02-06 16:19:07,/dev/port5,Comm : activate_gate
+2025-02-06 16:19:07,/dev/port6,Comm : activate_gate
+2025-02-06 16:19:07,/dev/port7,Comm : activate_gate
+2025-02-06 16:19:07,/dev/port8,Comm : activate_gate
+2025-02-06 16:19:08,/dev/port1,Comm : activate_gate
+2025-02-06 16:19:08,/dev/port2,Comm : activate_gate
+2025-02-06 16:19:08,/dev/port3,om: actge
+2025-02-06 16:19:08,/dev/port3,Cm ivate_atBarrier opened.
+2025-02-06 16:19:08,/dev/port4,Comm : activate_gate
+2025-02-06 16:19:08,/dev/port5,Comm : activate_gate
+2025-02-06 16:19:08,/dev/port6,Comm : activate_gate
+2025-02-06 16:19:08,/dev/port7,Comm : activate_gate
+2025-02-06 16:19:08,/dev/port8,Comm : activate_gate
+2025-02-06 16:19:10,/dev/port1,Comm : deactivate_gate
+2025-02-06 16:19:11,/dev/port2,Comm : deactivate_gate
+2025-02-06 16:19:12,/dev/port3,Comm : deactivate_gate
+2025-02-06 16:19:13,/dev/port4,Comm : deactivate_gate
+2025-02-06 16:19:14,/dev/port5,Comm : deactivate_gate
+2025-02-06 16:19:14,/dev/port6,Comm : deactivate_gate
+2025-02-06 16:19:15,/dev/port7,Comm : deactivate_gate
+2025-02-06 16:19:16,/dev/port8,Comm : deactivate_gate
+2025-02-06 16:19:18,/dev/port3,Barrier closed.
+2025-02-06 16:27:13,/dev/feeder_port,Feeder operation complete. Servo detached.
+2025-02-06 16:27:23,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:27:23,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:27:23,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:27:36,/dev/feeder_port,Feeder operation complete. Servo detached.
+2025-02-06 16:28:20,/dev/feeder_port,Feeder operation complete. Servo detached.
+2025-02-06 16:30:03,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:30:04,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:30:14,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:30:14,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:30:15,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:30:23,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:30:23,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:30:39,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:30:39,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:30:58,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:30:58,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:30:58,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:30:58,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:30:58,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:31:29,/dev/feeder_port,Feeder operation complete. Servo detached.
+2025-02-06 16:31:48,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:31:49,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:34:25,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:34:26,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:34:42,/dev/feeder_port,Feeder operation complete. Servo detached.
+2025-02-06 16:35:07,/dev/feeder_port,Feeder operation complete. Servo detached.
+2025-02-06 16:37:31,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:37:31,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:37:51,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:37:52,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:38:06,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:38:07,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:38:30,/dev/feeder_port,Feeder operation complete. Servo detached.
+2025-02-06 16:39:00,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:39:01,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:39:06,/dev/feeder_port,Feeder operation complete. Servo detached.
+2025-02-06 16:39:11,/dev/feeder_port,Feeder operation complete. Servo detached.
+2025-02-06 16:43:06,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:43:07,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:43:07,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:43:20,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:43:20,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:44:29,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:44:29,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:44:35,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:44:35,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:44:38,/dev/feeder_port,Feeder operation complete. Servo detached.
+2025-02-06 16:45:23,/dev/feeder_port,Feeder operation complete. Servo detached.
+2025-02-06 16:45:57,/dev/feeder_port,Feeder operation complete. Servo detached.
+2025-02-06 16:49:13,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:49:13,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:49:37,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:49:38,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:50:04,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:50:05,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:52:35,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:52:36,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:52:42,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:52:42,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:52:52,/dev/feeder_port,Feeder operation complete. Servo detached.
+2025-02-06 16:53:08,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:53:08,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:53:22,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:53:22,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:53:22,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:53:38,/dev/feeder_port,Feeder operation complete. Servo detached.
+2025-02-06 16:54:16,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:54:16,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:54:32,/dev/port3,IR_SENSOR::: Sniff_started
+2025-02-06 16:54:32,/dev/port3,IR_SENSOR::: Sniff_stopped
+2025-02-06 16:54:38,/dev/feeder_port,Feeder operation complete. Servo detached.
+2025-02-06 16:54:48,/dev/feeder_port,Feeder operation complete. Servo detached.
